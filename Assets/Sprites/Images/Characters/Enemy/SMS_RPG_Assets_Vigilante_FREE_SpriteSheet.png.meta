@@ -1,0 +1,2543 @@
+fileFormatVersion: 2
+guid: 140d237898d5cde45bdc0388fb042bbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7430033406282736252
+    second: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_7
+  - first:
+      213: -8854486288999957548
+    second: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_8
+  - first:
+      213: 7232339998803059646
+    second: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_9
+  - first:
+      213: 3281421094673941958
+    second: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_10
+  - first:
+      213: -1330623022513966995
+    second: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_11
+  - first:
+      213: 6515971529548671252
+    second: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_12
+  - first:
+      213: 3750584863408197342
+    second: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_13
+  - first:
+      213: -196955258985660128
+    second: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_14
+  - first:
+      213: -7303318664549477218
+    second: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_15
+  - first:
+      213: 8721944887198726130
+    second: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 120
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b34cfd1785405350800000000000000
+      internalID: 6003374749910844344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 120
+        width: 12
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbefee3268edd6c0800000000000000
+      internalID: -4116878975686415439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 120
+        width: 12
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406286c86f5c8d430800000000000000
+      internalID: 3808011147650016772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 120
+        width: 12
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab54aa39c3ba8ba70800000000000000
+      internalID: 8843006145005766074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 120
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f865ae704f7bf630800000000000000
+      internalID: 3961900212181887216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 120
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa2258f3e56b41c0800000000000000
+      internalID: -4518405771338044755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 120
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972c5ed6d2c57ff20800000000000000
+      internalID: 3456332589217202809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 120
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8097aca50bf47120800000000000000
+      internalID: 2410827702340128909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 122
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab3bb8d7d1571490800000000000000
+      internalID: -7775656244135904346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 121
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82831b8ad862f710800000000000000
+      internalID: 1725556895081792141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 122
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2313d34830cd1b450800000000000000
+      internalID: 6102900877725348146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 121
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e81e3927df94e6a0800000000000000
+      internalID: -6420831422264764187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 122
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694152741fe5d2900800000000000000
+      internalID: 661289110667072662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 122
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1937a7243a3101b90800000000000000
+      internalID: -7273291806287432815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 122
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582d4fd2920600370800000000000000
+      internalID: 8286729044342657669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 122
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e476830bce00f5250800000000000000
+      internalID: 5935463850466371406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 120
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcee6f998a26fc20800000000000000
+      internalID: 3239823752513383602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 120
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4282c5dc64c3780800000000000000
+      internalID: -8702002532158266181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 120
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c5b7ad249c9eb20800000000000000
+      internalID: 3164281502175026223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 120
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdbe6983ecc0ff80800000000000000
+      internalID: -8074728854239920707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 96
+        width: 7
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d4c60583ee810a0800000000000000
+      internalID: -6910511702565171920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 96
+        width: 7
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45ffa7e9eacaa620800000000000000
+      internalID: 2786262425445332299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 96
+        width: 7
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e63fec6067d798f0800000000000000
+      internalID: -533721221675665695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_8
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 96
+        width: 7
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd17fa88c8b92ab0800000000000000
+      internalID: -5032287937145397820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 96
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233bf92f58d5ebab0800000000000000
+      internalID: -4990448507197344974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 96
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1085cd288f156c940800000000000000
+      internalID: 5316026537946667009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 96
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0e56314e4219130800000000000000
+      internalID: 3571676541478101187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 96
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4a48d26a447a440800000000000000
+      internalID: 4946998196208706738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 96
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d20e1d18b27a7bf0800000000000000
+      internalID: -325821887942884653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 98
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4734a410b369f0a0800000000000000
+      internalID: -6847332150528428212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 96
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcf456a7cd1988d0800000000000000
+      internalID: -2843708946381472592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 98
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a544a554b7a902c00800000000000000
+      internalID: 873868181945074778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 98
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8b952b5cd9e95f0800000000000000
+      internalID: -747987015670581048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 99
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2b04baa9e59ef70800000000000000
+      internalID: 9217002130781549225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 97
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feda06b6beb6e5d0800000000000000
+      internalID: -3033527607039959311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 99
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13da10a299e9e6be0800000000000000
+      internalID: -1482072846686376655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 96
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9073ebb753480a50800000000000000
+      internalID: 6487509307320660122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 96
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410f6d7cd5bdba2e0800000000000000
+      internalID: -2113354404289122284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 96
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879ffbbbac4325310800000000000000
+      internalID: 1392233280148863352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 96
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff1a51a5ff77e5c0800000000000000
+      internalID: -4186236635666833410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 72
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400017f852eedc6f0800000000000000
+      internalID: -662611725065846780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 72
+        width: 12
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6720f74e77af380800000000000000
+      internalID: -8936698687296211214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 72
+        width: 12
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d78ac4cfdc5aec50800000000000000
+      internalID: 6695265912188733393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 72
+        width: 12
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924ac9f077c8a6080800000000000000
+      internalID: -9193381246332525527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 72
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1444a5cab7830e10800000000000000
+      internalID: 2162721482317513758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 72
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae410a7a837476a0800000000000000
+      internalID: -6452405327525491039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 72
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d063817516b09b70800000000000000
+      internalID: 8903816666526474455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 72
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c6b9ec1b8275040800000000000000
+      internalID: 4636219085541829684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 72
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8451975f8bd9cb80800000000000000
+      internalID: -8373920623422778230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 72
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e0bc12c424b29c0800000000000000
+      internalID: -3950991353335574881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 72
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b0b8a5f1ac4fba0800000000000000
+      internalID: -6055993362894615757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 72
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c076dcba294fb360800000000000000
+      internalID: 7187543978212225218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 74
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569bf2f92304add90800000000000000
+      internalID: -7072269678668695195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 74
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f3c3a873d6646e0800000000000000
+      internalID: -1853674111306547370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 74
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91d4c9cb49e28b00800000000000000
+      internalID: 829481793106530716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 74
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fb1f185f497b500800000000000000
+      internalID: 411961673095692043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 72
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6a2e77bed0cdaa0800000000000000
+      internalID: -6135013287405639957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 72
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389a35ed958638230800000000000000
+      internalID: 3639867659036895619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 72
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e162bb54b41cc1220800000000000000
+      internalID: 2458052025674049054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 72
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666f85705f254f2a0800000000000000
+      internalID: -6704642732904090010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 48
+        width: 7
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c910b9c308986f40800000000000000
+      internalID: 5721990468610300361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_14
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 48
+        width: 7
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adac6993f3759b3f0800000000000000
+      internalID: -884579922740852006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 48
+        width: 7
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe19a645cad2ac10800000000000000
+      internalID: 2063452120118009586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 48
+        width: 7
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd881d5ad04c3250800000000000000
+      internalID: 5925682516321668601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 48
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61804e3e93e4e280800000000000000
+      internalID: -9014830285300137622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 48
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592be74f96dc34970800000000000000
+      internalID: 8738053556986098325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 48
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744808217ea33dfd0800000000000000
+      internalID: -2318444619043404729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 48
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c80441a5607ada0800000000000000
+      internalID: -5933767000080741316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 50
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be89d05c4d959db0800000000000000
+      internalID: -4785746077911773511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 48
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f8acf03a6b81570800000000000000
+      internalID: 8437694713339481999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 50
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002dfa83db3fc5480800000000000000
+      internalID: -8908977968820268544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 48
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428b02c3e1bf42770800000000000000
+      internalID: 8585262896951375908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 51
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685e744b70b4f08f0800000000000000
+      internalID: -572156131191298682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 49
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ba7621e8b4c3f30800000000000000
+      internalID: 4556599996558322451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 51
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7883e3a55ab553940800000000000000
+      internalID: 5275223304276162695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 50
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220faf7866c5aa7b0800000000000000
+      internalID: -5212252023290138590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 48
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9b48bc8dae0a2d0800000000000000
+      internalID: -3269355112622671449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 48
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878f8b520de0e3e50800000000000000
+      internalID: 6790881575270152312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 42
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85c652cb1ffb05c0800000000000000
+      internalID: -4248021328804264562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 32
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e692a3db03a35b30800000000000000
+      internalID: 4274939742495348456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3381846c4702d7460800000000000000
+      internalID: 7240979461796534323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b62c21e76a14cd0800000000000000
+      internalID: -2575594451468391619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e10b8d010c64fb70800000000000000
+      internalID: 8931882712760517088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a403c8477726950800000000000000
+      internalID: 6440841759545117247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafe3c6990ba8b8f0800000000000000
+      internalID: -524481298916184145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91546fa0977bae060800000000000000
+      internalID: 6983595902694212889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588af3d912eadff00800000000000000
+      internalID: 1152268539072063621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965acd36c9b3b52c0800000000000000
+      internalID: -4441891064594520727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7516e9e801d011520800000000000000
+      internalID: 2670930418770796887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 3
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc7cb8ddcfb61480800000000000000
+      internalID: -8928738320389997368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d4bc8061bf66240800000000000000
+      internalID: 4784787726183124348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346e59c0525ba0750800000000000000
+      internalID: 6272024601796404803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04a15bf37a8272a0800000000000000
+      internalID: -6741173461477907441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4b896c6a42a3740800000000000000
+      internalID: 5132455024057169088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9786eba83519e40800000000000000
+      internalID: 5661398061946534360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded2ae7a885da9eb0800000000000000
+      internalID: -4712219277180391955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 48
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92e9d409e51dd1d0800000000000000
+      internalID: -3324476859376606563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 48
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254e6348e554b8910800000000000000
+      internalID: 1840641144958411858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 32
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c2e8744ceeabbc0800000000000000
+      internalID: -3766435611560498098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 25
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544db45f865fa6b60800000000000000
+      internalID: 7740268740730410053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 25
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53aaf75f23c31fb20800000000000000
+      internalID: 3166378202582985269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 16
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32acf5218df398ad0800000000000000
+      internalID: -2699556304378148317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 16
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f633f5e3cc4f7480800000000000000
+      internalID: -8899309934400555272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 9
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72a4ca5408cc1760800000000000000
+      internalID: 7430033406282736252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 9
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db379b12ab8e1580800000000000000
+      internalID: -8854486288999957548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3618b09ee6e5460800000000000000
+      internalID: 7232339998803059646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c583829913f98d20800000000000000
+      internalID: 3281421094673941958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d603915396da88de0800000000000000
+      internalID: -1330623022513966995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419ae4145916d6a50800000000000000
+      internalID: 6515971529548671252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 40
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede0763df01cc0430800000000000000
+      internalID: 3750584863408197342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 40
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021c3874c36444df0800000000000000
+      internalID: -196955258985660128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e945c068e5665aa90800000000000000
+      internalID: -7303318664549477218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_RPG_Assets_Vigilante_FREE_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7b3000aa29a0970800000000000000
+      internalID: 8721944887198726130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - PauseMenuPanel
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Collision
+  - Enemy
+  - Boss
+  - Player
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackgroundSprite
+    uniqueID: 4107727579
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Characters
+    uniqueID: 2309875791
+    locked: 0
+  - name: PickUp
+    uniqueID: 2626618313
+    locked: 0
+  - name: UI
+    uniqueID: 2777242729
+    locked: 0
